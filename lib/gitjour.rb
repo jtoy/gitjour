@@ -52,7 +52,7 @@ module Gitjour
 
         puts "Connecting to #{service.host}:#{service.port}"
 
-        system "git clone git://#{service.host}:#{service.port}/ #{dir}/"
+        system "git clone git://#{service.host}:#{service.port}/#{dir}/"
       end
 
       def remote(repository_name, *rest)

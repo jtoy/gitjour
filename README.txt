@@ -1,6 +1,6 @@
 = gitjour
 
-* http://github.com/chad/gitjour
+* http://github.com/jtoy/gitjour
 
 == DESCRIPTION:
 
